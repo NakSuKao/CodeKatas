@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<testcases>
+    <testcase>
+        <numbers>-4,2,7,-2,3,1,11,9,-3</numbers>
+        <return>24</return>
+    </testcase>    
+</testcases>

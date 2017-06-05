@@ -1,0 +1,9 @@
+C:\Nuova cartella\CodeKatas\Es.CodeKatas.StringCalculatorsTests\bin\Debug\Es.CodeKatas.StringCalculatorsTests.dll.config
+C:\Nuova cartella\CodeKatas\Es.CodeKatas.StringCalculatorsTests\bin\Debug\Es.CodeKatas.StringCalculatorsTests.dll
+C:\Nuova cartella\CodeKatas\Es.CodeKatas.StringCalculatorsTests\bin\Debug\Es.CodeKatas.StringCalculatorsTests.pdb
+C:\Nuova cartella\CodeKatas\Es.CodeKatas.StringCalculatorsTests\bin\Debug\Es.CodeKatas.StringCalculators.dll
+C:\Nuova cartella\CodeKatas\Es.CodeKatas.StringCalculatorsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Nuova cartella\CodeKatas\Es.CodeKatas.StringCalculatorsTests\bin\Debug\Es.CodeKatas.StringCalculators.pdb
+C:\Nuova cartella\CodeKatas\Es.CodeKatas.StringCalculatorsTests\obj\Debug\Es.CodeKatas.StringCalculatorsTests.csprojResolveAssemblyReference.cache
+C:\Nuova cartella\CodeKatas\Es.CodeKatas.StringCalculatorsTests\obj\Debug\Es.CodeKatas.StringCalculatorsTests.dll
+C:\Nuova cartella\CodeKatas\Es.CodeKatas.StringCalculatorsTests\obj\Debug\Es.CodeKatas.StringCalculatorsTests.pdb

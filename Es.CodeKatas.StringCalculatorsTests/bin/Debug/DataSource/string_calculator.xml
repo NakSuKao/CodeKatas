@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<testcases>
+    <testcase>
+        <numbers></numbers>
+        <return>0</return>
+    </testcase>
+    <testcase>
+        <numbers>1</numbers>
+        <return>1</return>
+    </testcase>
+    <testcase>
+        <numbers>1,2</numbers>
+        <return>3</return>
+    </testcase>
+    <testcase>
+        <numbers>4,2,7,2,3,1,11,9,3</numbers>
+        <return>42</return>
+    </testcase>
+    <testcase>
+        <numbers>4,2,7,2,3&#xA;1,11&#xA;9,3</numbers>
+        <return>42</return>
+    </testcase>
+    <testcase>
+        <numbers>//;&#xA;4;2;7;2;3;1;11;9;3</numbers>
+        <return>42</return>
+    </testcase>
+    <testcase>
+        <numbers>//";"&#xA;";"4";"2";"7";"2";"3";"1";"11";"9";"3</numbers>
+        <return>42</return>
+    </testcase>
+    <testcase>
+        <numbers>4,2,7,2,3,1,11,9,3,1001</numbers>
+        <return>42</return>
+    </testcase>
+</testcases>

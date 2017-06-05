@@ -1,0 +1,5 @@
+C:\Nuova cartella\CodeKatas\Es.CodeKatas.StringCalculators\bin\Debug\Es.CodeKatas.StringCalculators.dll
+C:\Nuova cartella\CodeKatas\Es.CodeKatas.StringCalculators\bin\Debug\Es.CodeKatas.StringCalculators.pdb
+C:\Nuova cartella\CodeKatas\Es.CodeKatas.StringCalculators\obj\Debug\Es.CodeKatas.StringCalculators.csprojResolveAssemblyReference.cache
+C:\Nuova cartella\CodeKatas\Es.CodeKatas.StringCalculators\obj\Debug\Es.CodeKatas.StringCalculators.dll
+C:\Nuova cartella\CodeKatas\Es.CodeKatas.StringCalculators\obj\Debug\Es.CodeKatas.StringCalculators.pdb
